@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MovieGuide
 //
-//  Created by Sayed Abdo on 4/4/18.
+//  Created by Fadwa Zaghloul on 4/4/18.
 //  Copyright © 2018 ITI. All rights reserved.
 //
 
